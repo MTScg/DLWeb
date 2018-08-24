@@ -1,0 +1,26 @@
+#demo1 {
+  color: gray;
+}
+#demo2 {
+  color: red;
+}
+button {
+    margin: 0 2em;
+    padding: .2em .5em;
+}
+#bt1 img {
+    margin-right: .2em;
+}
+#bt2 {
+    background-image: url(img/icon.png);
+    background-position: .5em center;
+    background-repeat: no-repeat;
+    padding-left: 2em;
+}
+#bt3 {
+    padding: .3em;
+}
+#berechnen {
+    background-color: blue;
+    color: white;
+}
